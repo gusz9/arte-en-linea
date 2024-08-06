@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="600"
+   viewBox="0 0 285.74999 158.75"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="38.582878"
+       y="378.078"
+       width="1023.3806"
+       height="216.31688"
+       id="rect539" />
+    <rect
+       x="42.319225"
+       y="37.679699"
+       width="834.18964"
+       height="223.86958"
+       id="rect173" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g546">
+      <rect
+         style="fill:#000000;stroke:#ffffff;stroke-width:0.264583"
+         id="rect169"
+         width="278.31583"
+         height="92.023857"
+         x="4.1714573"
+         y="3.4576225" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.31525373,0,0,0.4900791,-0.6159752,-21.866318)"
+         id="text171"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:192px;font-family:'Inter Variable';-inkscape-font-specification:'Inter Variable Heavy';text-align:center;letter-spacing:100px;white-space:pre;shape-inside:url(#rect173);fill:#000000;stroke:#ffffff"><tspan
+           x="50.851562"
+           y="215.40366"
+           id="tspan727"><tspan
+             style="fill:#ffffff"
+             id="tspan725">ARTE</tspan></tspan></text>
+    </g>
+  </g>
+  <g
+     id="layer2">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.937866,-5.2682316)"
+       id="text537"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:192px;font-family:'Inter Variable';-inkscape-font-specification:'Inter Variable Heavy';text-align:center;letter-spacing:30px;white-space:pre;shape-inside:url(#rect539);fill:#ffffff;stroke:#ffffff"><tspan
+         x="43.788086"
+         y="555.8021"
+         id="tspan731"><tspan
+           style="font-weight:300;-inkscape-font-specification:'Inter Variable Light';fill:#000000"
+           id="tspan729">EN LINEA</tspan></tspan></text>
+  </g>
+</svg>
